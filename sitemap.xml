@@ -2,9 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.sitemaps.org/schemas/sitemap-image/1.1"
         xmlns:video="http://www.sitemaps.org/schemas/sitemap-video/1.1">
-    <url> 
-        <loc>http://swannman.github.com/index.html</loc> 
-        <loc>http://swannman.github.com/povclock/index.html</loc> 
-        <loc>http://swannman.github.com/pdf2gerb/index.html</loc> 
-    </url>
+    <url><loc>http://swannman.github.com/index.html</loc></url> 
+    <url><loc>http://swannman.github.com/povclock/index.html</loc></url> 
+    <url><loc>http://swannman.github.com/pdf2gerb/index.html</loc></url>
 </urlset>
