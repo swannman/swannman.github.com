@@ -87,12 +87,14 @@ a:hover {
 .main {
     width:75%;
     float:left;
+    margin-bottom:2em;
 }
 
 .right {
     width:22%;
     float:right;
     padding-top:3.5em;
+    margin-bottom:2em;
 }
 
 .right .photo img {
